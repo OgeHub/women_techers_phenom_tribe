@@ -1197,19 +1197,19 @@ a.text-dark:hover, a.text-dark:focus {
   background-size: cover;
 }
 .one {
-  background:url(../Vaccination_Pictures/hero_img4.jpeg);
+  background:url(./Vaccination_Pictures/hero_img4.jpeg);
 }
 .two {
-  background:url(../Vaccination_Pictures/hero_img5.jpg);
+  background:url(./Vaccination_Pictures/hero_img5.jpg);
 }
 .three {
-  background:url(../Vaccination_Pictures/hero_img2.jpg);
+  background:url(./Vaccination_Pictures/hero_img2.jpg);
 }
 .four {
-  background:url(../Vaccination_Pictures/hero_img1.jpeg);
+  background:url(./Vaccination_Pictures/hero_img1.jpeg);
 }
 .five {
-  background:url(../Vaccination_Pictures/hero_img6.jpg);
+  background:url(./Vaccination_Pictures/hero_img6.jpg);
 }
 
 a:hover{
